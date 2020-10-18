@@ -1,0 +1,5 @@
+git clone https://github.com/Sneezry/vscode-instant-weather.git
+cd vscode-instant-weather
+npm i
+npm i vsce -g
+vsce package .
